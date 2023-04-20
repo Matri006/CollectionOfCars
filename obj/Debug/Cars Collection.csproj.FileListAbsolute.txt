@@ -1,0 +1,54 @@
+E:\Cars_Collection\Cars Collection\obj\Debug\Cars Collection.csproj.AssemblyReference.cache
+E:\Cars_Collection\Cars Collection\obj\Debug\Cars Collection.csproj.CoreCompileInputs.cache
+E:\Cars_Collection\Cars Collection\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+E:\Cars_Collection\Cars Collection\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+E:\Cars_Collection\Cars Collection\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+E:\Cars_Collection\Cars Collection\bin\Debug\Cars Collection.exe.config
+E:\Cars_Collection\Cars Collection\bin\Debug\Cars Collection.exe
+E:\Cars_Collection\Cars Collection\bin\Debug\Cars Collection.pdb
+E:\Cars_Collection\Cars Collection\bin\Debug\SQLite-net.dll
+E:\Cars_Collection\Cars Collection\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+E:\Cars_Collection\Cars Collection\bin\Debug\SQLitePCLRaw.core.dll
+E:\Cars_Collection\Cars Collection\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+E:\Cars_Collection\Cars Collection\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Cars_Collection\Cars Collection\bin\Debug\System.Buffers.dll
+E:\Cars_Collection\Cars Collection\bin\Debug\System.Data.SQLite.dll
+E:\Cars_Collection\Cars Collection\bin\Debug\System.Memory.dll
+E:\Cars_Collection\Cars Collection\bin\Debug\System.Numerics.Vectors.dll
+E:\Cars_Collection\Cars Collection\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Cars_Collection\Cars Collection\bin\Debug\SQLite-net.xml
+E:\Cars_Collection\Cars Collection\bin\Debug\System.Buffers.xml
+E:\Cars_Collection\Cars Collection\bin\Debug\System.Data.SQLite.xml
+E:\Cars_Collection\Cars Collection\bin\Debug\System.Memory.xml
+E:\Cars_Collection\Cars Collection\bin\Debug\System.Numerics.Vectors.xml
+E:\Cars_Collection\Cars Collection\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Cars_Collection\Cars Collection\obj\Debug\Cars Collection.csproj.CopyComplete
+E:\Cars_Collection\Cars Collection\obj\Debug\Cars Collection.exe
+E:\Cars_Collection\Cars Collection\obj\Debug\Cars Collection.pdb
+D:\Cars_Collection\Cars Collection\obj\Debug\Cars Collection.csprojAssemblyReference.cache
+D:\Cars_Collection\Cars Collection\obj\Debug\Cars Collection.csproj.CoreCompileInputs.cache
+D:\Cars_Collection\Cars Collection\obj\Debug\Cars Collection.exe
+D:\Cars_Collection\Cars Collection\obj\Debug\Cars Collection.pdb
+D:\Cars_Collection\Cars Collection\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+D:\Cars_Collection\Cars Collection\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+D:\Cars_Collection\Cars Collection\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+D:\Cars_Collection\Cars Collection\bin\Debug\Cars Collection.exe.config
+D:\Cars_Collection\Cars Collection\bin\Debug\Cars Collection.exe
+D:\Cars_Collection\Cars Collection\bin\Debug\Cars Collection.pdb
+D:\Cars_Collection\Cars Collection\bin\Debug\SQLite-net.dll
+D:\Cars_Collection\Cars Collection\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\Cars_Collection\Cars Collection\bin\Debug\SQLitePCLRaw.core.dll
+D:\Cars_Collection\Cars Collection\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+D:\Cars_Collection\Cars Collection\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Cars_Collection\Cars Collection\bin\Debug\System.Buffers.dll
+D:\Cars_Collection\Cars Collection\bin\Debug\System.Data.SQLite.dll
+D:\Cars_Collection\Cars Collection\bin\Debug\System.Memory.dll
+D:\Cars_Collection\Cars Collection\bin\Debug\System.Numerics.Vectors.dll
+D:\Cars_Collection\Cars Collection\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Cars_Collection\Cars Collection\bin\Debug\SQLite-net.xml
+D:\Cars_Collection\Cars Collection\bin\Debug\System.Buffers.xml
+D:\Cars_Collection\Cars Collection\bin\Debug\System.Data.SQLite.xml
+D:\Cars_Collection\Cars Collection\bin\Debug\System.Memory.xml
+D:\Cars_Collection\Cars Collection\bin\Debug\System.Numerics.Vectors.xml
+D:\Cars_Collection\Cars Collection\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Cars_Collection\Cars Collection\obj\Debug\Cars Collection.csproj.CopyComplete

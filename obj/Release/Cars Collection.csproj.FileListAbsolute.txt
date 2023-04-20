@@ -1,0 +1,28 @@
+D:\Cars_Collection\Cars Collection\bin\Release\runtimes\win-x86\native\e_sqlite3.dll
+D:\Cars_Collection\Cars Collection\bin\Release\runtimes\win-x64\native\e_sqlite3.dll
+D:\Cars_Collection\Cars Collection\bin\Release\runtimes\win-arm\native\e_sqlite3.dll
+D:\Cars_Collection\Cars Collection\bin\Release\Cars Collection.exe.config
+D:\Cars_Collection\Cars Collection\bin\Release\Cars Collection.exe
+D:\Cars_Collection\Cars Collection\bin\Release\Cars Collection.pdb
+D:\Cars_Collection\Cars Collection\bin\Release\SQLite-net.dll
+D:\Cars_Collection\Cars Collection\bin\Release\SQLitePCLRaw.batteries_v2.dll
+D:\Cars_Collection\Cars Collection\bin\Release\SQLitePCLRaw.core.dll
+D:\Cars_Collection\Cars Collection\bin\Release\SQLitePCLRaw.nativelibrary.dll
+D:\Cars_Collection\Cars Collection\bin\Release\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Cars_Collection\Cars Collection\bin\Release\System.Buffers.dll
+D:\Cars_Collection\Cars Collection\bin\Release\System.Data.SQLite.dll
+D:\Cars_Collection\Cars Collection\bin\Release\System.Memory.dll
+D:\Cars_Collection\Cars Collection\bin\Release\System.Numerics.Vectors.dll
+D:\Cars_Collection\Cars Collection\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\Cars_Collection\Cars Collection\bin\Release\SQLite-net.xml
+D:\Cars_Collection\Cars Collection\bin\Release\System.Buffers.xml
+D:\Cars_Collection\Cars Collection\bin\Release\System.Data.SQLite.xml
+D:\Cars_Collection\Cars Collection\bin\Release\System.Memory.xml
+D:\Cars_Collection\Cars Collection\bin\Release\System.Numerics.Vectors.xml
+D:\Cars_Collection\Cars Collection\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\Cars_Collection\Cars Collection\obj\Release\Cars Collection.csproj.AssemblyReference.cache
+D:\Cars_Collection\Cars Collection\obj\Release\Cars Collection.csproj.SuggestedBindingRedirects.cache
+D:\Cars_Collection\Cars Collection\obj\Release\Cars Collection.csproj.CoreCompileInputs.cache
+D:\Cars_Collection\Cars Collection\obj\Release\Cars Collection.csproj.CopyComplete
+D:\Cars_Collection\Cars Collection\obj\Release\Cars Collection.exe
+D:\Cars_Collection\Cars Collection\obj\Release\Cars Collection.pdb
